@@ -1,5 +1,5 @@
 {
-  "name": "node-noisy-parts-detector",
+  "name": "noisy-parts-detector",
   "version": "1.0.0",
   "description": "Node module to detect noisy parts from audio file",
   "main": "index.js",
